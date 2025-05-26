@@ -13,7 +13,6 @@
 - 🎮 Game Dev: Godot (GDScript).
 - 📱 Frontend: Flutter.
 
----
 
 ---
 
@@ -22,7 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhojan00&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhojan00&layout=compact&theme=radical)
 
-
+---
 
 ## 📫 Contáctame
 
