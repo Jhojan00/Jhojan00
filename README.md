@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 HI There
 
-<!--
-**Jhojan00/Jhojan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas que uso
+
+- 💻 Lenguajes: Python, Dart y C#.
+- 🧠 Datos: Pandas, Numpy y Matplotlib.
+- 🔙 Backend: .NET, Firebase.
+- 🗄️ Base de datos: SQLite, Firebase Realtime DB.
+- ☁️ Cloud: Firebase.
+- 🎮 Game Dev: Godot (GDScript).
+- 📱 Frontend: Flutter.
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhojan00&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhojan00&layout=compact&theme=radical)
+
+
+
+## 📫 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhojan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhojan-alfredo-aguilera-sanchez-60480a303/)
+
+---
+
